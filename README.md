@@ -3,7 +3,7 @@
 Dissolve is a custom version of Discord made using Neutralino.js. It is based on my old Discord client, [CustomCord](https://github.com/trisn0w/CustomCord).
 It barely takes up any memory, and it's really fast (so if you have a not so good PC, this is sure to work on your system)!
 
-![image](/ecv2.png)
+![image](https://i.ibb.co/cJYBxSM/image.png)
 
 ## Install
 
@@ -12,17 +12,12 @@ Install for:
 
 
 ## What can you do with Dissolve?
-| Feature                         | Supported by CustomCord |
+Everything that Discord can do, and...
+| Feature                         | Supported by Dissolve |
 |---------------------------------|-------------------------|
-| Sending and Receiving Messages  | Yes                     |
-| Buying Nitro and Boosts         | Yes                     |
-| Use Bots                        | Yes                     |
-| Join Voice Channels and Servers | Yes                     |
-| Custom Keybinds                 | No                      |
-| Push to Talk and Voice Activity | Yes                     |
-| Make Custom Rich Presences      | No                      |
-| Spotify Song Detection          | Yes                     |
-| App Overlay                     | No                      |
+| DevTools tab  | Yes                     |
+
+And more coming in the future!
 
 ## Notice
 I am not responsible if you get banned off discord from using this client.
